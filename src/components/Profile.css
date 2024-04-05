@@ -1,0 +1,88 @@
+.head {
+    margin-top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 68px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000007;
+    opacity: 1;
+}
+
+.head div {
+    margin-top: 0px;
+    padding-top: 20px;
+    margin-left: 15px;
+    width: 146px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 18px/21px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    text-transform: capitalize;
+    opacity: 1;
+
+}
+
+.profile {
+    background-color: #F7F8F9;
+    width: 375px;
+    height: 812px;
+
+
+}
+
+
+.innerPro .imag {
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 76px;
+    height: 76px;
+    /* UI Properties */
+    background: transparent url('Ellipse 114.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.innerPro .imag2 {
+    margin-top: 80px;
+    margin-left: -20px;
+    width: 21px;
+    height: 23px;
+    /* UI Properties */
+    background: transparent url('Group 1585.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.innerPro {
+    display: flex;
+    flex-direction: row;
+}
+
+.innerPro .context {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.innerPro p {
+    margin-top: 0px;
+    /* margin-bottom: -10px; */
+}
+
+.innerPro h2 {
+    margin: 0px;
+}
+
+.para {
+    background-color: #F7F8F9;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 337px;
+    height: 63px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/22px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    text-transform: capitalize;
+    opacity: 1;
+}
